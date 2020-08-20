@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Math Trainer</string>
+    <string name="go">GO!</string>
+    <string name="title">Select Operator for Game :</string>
+    <string name="rules">
+        About : \n
+        (1) Select Operator for playing the same. \n\n
+        (2) You Have to 30 second to finish the game.\n\n
+        (3) After Finished, You have to take Screenshot of your Score. Otherwise, it will be destroyed.\n
+    </string>
+    <string name="zero">0</string>
+    <string name="play_again">Play Again</string>
+    <string name="track">0/0</string>
+    <string name="i_time">30s</string>
+    <string-array name="operator">
+        <item>--select operator--</item>
+        <item>Addition (+) </item>
+        <item>Subtraction (-) </item>
+        <item>Multiplication (*) </item>
+    </string-array>
+</resources>
